@@ -3,7 +3,7 @@ let url = "https://docs.aws.amazon.com/lambda/latest/dg/welcome.html"
 
 
 console.log = "New logging enhancements for Chris";
-console.log = "New logging enhancements for Chris";
+
 
 
 exports.handler = async function(event) {
