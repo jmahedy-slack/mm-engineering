@@ -2,8 +2,7 @@ const https = require('https')
 let url = "https://docs.aws.amazon.com/lambda/latest/dg/welcome.html"
 
 
-console.log = "some code changes here";
-console.log = "reporting changes";
+console.log = "some logging changes here";
 
 
 exports.handler = async function(event) {
